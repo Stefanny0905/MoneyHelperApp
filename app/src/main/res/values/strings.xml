@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoneyHelper</string>
+    <string name="main_title">Contabilidad de Ingresos / Egresos</string>
+    <string name="main_saldo_ahorro">Saldo Actual Ahorro</string>
+    <string name="main_saldo_credito">Saldo Actual Crédito</string>
+    <string name="main_saldo_efectivo">Saldo Actual Efectivo</string>
+    <string name="main_subtitle">Proporción Ingresos / Egresos</string>
+    <string-array name="android_layout_arrays">
+        <item>Ahorro</item>
+        <item>Credito</item>
+        <item>Efectivo</item>
+    </string-array>
+</resources>
